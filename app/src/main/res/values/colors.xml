@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#1e3769</color>
+    <color name="colorPrimaryDark">#182749</color>
+    <color name="colorAccent">#395EA7</color>
+
+    <color name="colorNavigationIcon">#ECECEC</color>
+    <color name="colorNavigationText">#ffffff</color>
+    <color name="colorNavigationTint">#1e3769</color>
+
+    <color name="bicsay">#1e3769</color>
+</resources>
